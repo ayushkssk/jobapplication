@@ -1,0 +1,25 @@
+body {
+    font-family: "Comic Sans MS", sans-serif;
+    background-color: bisque;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+.headings {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    background-color: rgb(214, 181, 141);
+    padding: 10px;
+    color: white;
+}
+
+td {
+    padding: 7px;
+}
+
+.submitbtn {
+    text-align: center;
+}
